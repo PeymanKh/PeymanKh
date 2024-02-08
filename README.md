@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @PeymanKh
-- 🎓 I’m AI engineering student at Bahçeşehir University.
-- 🌱 I’m currently learning ML mathematics, Data Structure, Solve by search algorithms.
-- 🖥 I know c++ and python.
-- 📫 How to reach me : peymankhodabandehlouei@gmail.com
+I'm a 3rd-year Artificial Intelligence Engineering student at Bahcesehir University, currently navigating the world of Data Science.
+📫 How to reach me : peymankhodabandehlouei@gmail.com
 
 <!---
 PeymanKh/PeymanKh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

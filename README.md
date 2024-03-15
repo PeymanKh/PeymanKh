@@ -14,7 +14,7 @@
 	<a href="https://medium.com/@peymankhodabandehlouei"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
-## 🛠️ My Tools
+## 🧑🏻‍💻 My Tools
 
 ### 💻 Programming Languages
 <p>
@@ -50,7 +50,7 @@
 
 </p>
 
-### 📚 Education
+### 📖 Education
 
 <p>
     <a href="https://github.com/PeymanKh"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
@@ -63,7 +63,7 @@
 </p>
 
 
-### Softwares and Tools
+### 🖥️ Softwares and Tools
 
 <p>
     <a href="https://github.com/PeymanKh"><img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>

@@ -7,6 +7,7 @@
 
 <br>
 
+
 ## 🤝 Connect with me
 <p align="center">
 	<a href="mailto:peymankhodabandehlouei@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -78,5 +79,13 @@
 
 
 </br>
+<br>
 
+<h3>📊 Statistical Data</h3>
+    <p><img align="center"
+	src="https://github-readme-stats.vercel.app/api/top-langs?username=PeymanKh&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+	alt="adam-pw" 
+	bg_color=#808080/>
+    </p>
+<br>
 

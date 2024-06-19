@@ -10,7 +10,7 @@
 	<a href="https://www.linkedin.com/in/peyman-khodabandehlouei/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://discordapp.com/users/909543846709452841/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 	<a href="mailto:peymankhodabandehlouei@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://medium.com/@peymankhodabandehlouei"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+	<a href="https://medium.com/@peyman_kh"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
 <br>

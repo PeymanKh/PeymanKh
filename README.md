@@ -3,7 +3,9 @@
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1> 
 
-<p align="left">I'm an AI engineering student currently studying at Bahcesehir University. My academic journey is deeply rooted in data-driven technologies and their applications. At present, my primary focus lies in mastering the skills necessary to manage and analyze various types of data effectively, utilizing the power of data to solve complex problems.</p>
+<p align="left">AI Engineer graduating soon with hands-on experience building production grade AI applications and intelligent automation systems. I am specializing in AI orchestration and multi-agent systems.
+	
+My current focus is developing automations to solve real-world problems and actively contribute to the AI engineering community through open-source projects and educational resources. Currently exploring advanced agentic architectures and expanding my expertise in Go programming. Available for AI engineering opportunities and collaboration on innovative projects.</p>
 
 <h4 align="center">Let's Connect!</h4>
 <p align="center">

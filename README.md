@@ -57,7 +57,6 @@
 
 
 ### Frameworks
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
 ![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)
